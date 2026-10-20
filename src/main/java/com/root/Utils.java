@@ -1,6 +1,7 @@
 package com.root;
 
 public class Utils {
-
-hallo
+    public void demo(){
+        System.out.println("sonugam chagnes done");
+    }
 }
