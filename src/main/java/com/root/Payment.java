@@ -9,6 +9,9 @@ public class Payment {
         System.out.println("process payment via card hi");
     }
 
+    public void processPaymentUPI(){
+        System.out.println("process payment via upi");
+    }
 
 
 
